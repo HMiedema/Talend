@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_fm2TkdnDEeeKTN6Vgta2tA" label="HesselTalend" language="java" technicalLabel="HESSELTALEND" author="_fm2TktnDEeeKTN6Vgta2tA" productVersion="Talend Integration Cloud Hybrid Edition-6.4.1.20170623_1246" url="{&quot;location&quot;:&quot;https://github.com/HMiedema/Talend.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false"/>
+  <TalendProperties:User xmi:id="_fm2TktnDEeeKTN6Vgta2tA" login="hessel.m.miedema@trial05631.talend.com" firstName="Hessel" lastName="Miedema" type="DI"/>
+</xmi:XMI>

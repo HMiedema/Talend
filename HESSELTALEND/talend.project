@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
   <TalendProperties:Project xmi:id="_fm2TkdnDEeeKTN6Vgta2tA" label="HesselTalend" language="java" technicalLabel="HESSELTALEND" author="_fm2TktnDEeeKTN6Vgta2tA" productVersion="Talend Integration Cloud Hybrid Edition-6.4.1.20170623_1246" url="{&quot;location&quot;:&quot;https://github.com/HMiedema/Talend.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <technicalStatus xmi:id="_i3rLINnDEeeKTN6Vgta2tA" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_i3rLIdnDEeeKTN6Vgta2tA" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_i3rLItnDEeeKTN6Vgta2tA" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_i3ioQNnDEeeKTN6Vgta2tA" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_i3ioQdnDEeeKTN6Vgta2tA" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_i3ioQtnDEeeKTN6Vgta2tA" label="validated" code="VAL"/>
     <migrationTask xmi:id="_i2dqMNnDEeeKTN6Vgta2tA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_i2dqMdnDEeeKTN6Vgta2tA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_i2dqMtnDEeeKTN6Vgta2tA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
